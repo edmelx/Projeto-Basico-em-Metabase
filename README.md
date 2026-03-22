@@ -4,9 +4,16 @@ Um projeto introdutório que fiz para descobrir as funcionalidades e a plataform
 Fiz esse projeto para explorar o Metabase e entender mais sobre ele.
 Extraí os arquivos CSV de um projeto que eu havia feito e upei no Metabase.
 
-Os arquivos foram movimentações.csv e produtos.csv.
+Os arquivos usados foram movimentações.csv e produtos.csv.
+
+As dashboards mostram:
+Movimentações por tipo — volume equilibrado entre entradas e saídas
+Estoque mínimo por categoria — Escritório exige maior reserva de estoque
+Produtos por categoria — Escritório também tem mais variedade de itens
 
 O que concluí é que, enquanto o Grafana serve para alertas técnicos, o Metabase serve para alertas e amostragem de dados de negócio.
+
+Foi utilizado apoio técnico do Claude AI e do Google Gemini
 
 O projeto se encontra disponível nesse link aqui https://ultra-gust.metabaseapp.com/public/dashboard/dea538c7-331a-460a-a873-5b6b49964a3c
 
